@@ -1,0 +1,23 @@
+[
+  {
+    "title": "E-commerce Website",
+    "description": "html css js",
+    "image": "ecom",
+    "link": "#https://oussbelat.github.io/ecommerce-/",
+    "codeLink": "#https://github.com/oussbelat/ecommerce-"
+  },
+  {
+    "title": "movies website",
+    "description": "react tailwind",
+    "image": "movies",
+    "link": "#https://movies-ten-lyart.vercel.app/",
+    "codeLink": "https://github.com/oussbelat/movies"
+  },
+  {
+    "title": "yummy website",
+    "description": "html css js",
+    "image": "yummy",
+    "link": "#https://oussbelat.github.io/oussam_abelattar_finalproject_dom/",
+    "codeLink": "#https://github.com/oussbelat/oussam_abelattar_finalproject_dom"
+  }
+]
